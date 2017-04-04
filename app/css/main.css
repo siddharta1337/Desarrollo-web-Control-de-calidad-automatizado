@@ -1,0 +1,50 @@
+.jumbotron {
+    background-image: url(../img/cafe.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+#menu ul {
+    margin-top: 30px;
+}
+
+#menu .menu {
+    background: #f7bd87;
+    border: solid;
+    font-size: 21px;
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    width: 400px;
+}
+
+.imagen {
+    display: block;
+    margin: auto;
+}
+
+.redes-sociales {
+    display: none
+}
+
+.redes-sociales span {
+    margin: 0 10px
+}
+
+#contacto label {
+    display: block;
+}
+
+#respuesta {
+    display: none;
+}
+
+.titular {
+    letter-spacing: 0;
+}
