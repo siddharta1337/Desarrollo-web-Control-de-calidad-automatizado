@@ -3,7 +3,7 @@
 Aprende a usar herramientas automatizadas de control de calidad para tus desarrollos web, para que sean consecuentes y anticiparte a los posibles problemas del código. Automatiza tus pruebas con PhantomJS, CasperJS y Gulp  y aprende a generar informes para asegurarte de que cuando un proyecto web sale a producción cumple todos los requisitos.
 
 
-##UPDATE IMPORTANTE
+## UPDATE IMPORTANTE
 Las versión de Gulp utilizada en este curso no es compatible con las últimas versiones de Node. Si tienes problemas para utilizar los ejemplos del curso tienes 2 posibles opciones:
 
 - A) Reinstalar Node
