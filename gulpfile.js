@@ -1,3 +1,16 @@
+/******
+ *
+ * IMPORTANTE
+ *
+ * Este archivo usa una version antigua de Gulp que puede tener problemas de compatibilidad con node
+ *
+ * si tienes problemas, sigue las instrucciones detalladas en el repositorio original
+ *
+ * https://github.com/siddharta1337/Desarrollo-web-Control-de-calidad-automatizado
+ *
+ */
+
+
 var gulp = require('gulp');
 var webserver = require('gulp-webserver');
 var opn = require('opn');
